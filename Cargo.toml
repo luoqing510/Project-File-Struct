@@ -1,6 +1,6 @@
 [package]
 name = "pfs"
-version = "0.1.0"
+version = "0.1.2-bate.1"
 edition = "2021"
 description = "一个项目的文件结构管理器"
 [dependencies]
