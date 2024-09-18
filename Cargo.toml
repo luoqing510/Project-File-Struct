@@ -1,0 +1,8 @@
+[package]
+name = "pfs"
+version = "0.1.0"
+edition = "2021"
+description = "一个项目的文件结构管理器"
+[dependencies]
+serde = { version = "1.0.128", features = ["derive"] }
+serde_json = "1.0.128"
