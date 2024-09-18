@@ -11,7 +11,7 @@ PFS（Project File Struct）是一个用于管理和操作文件系统的 Rust �
   把空格展开s
 
 ## 运行方法
-``` 
+``` bat
 Run a binary or example of the local package
 
 Usage:  pfs [options]
@@ -19,6 +19,8 @@ Usage:  pfs [options]
 Options:
  -h | help -> Show help
  -v | version -> Show version number
+ -b | build  Build a pfs file from a directory
+      -r Build files context 
  *.json  -> Use the json file to create the Pfs
 ```
 
